@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xiehifibof.chriscooning.com/sitemap.xml
